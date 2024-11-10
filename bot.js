@@ -1,4 +1,4 @@
-const telegramAuthToken = '7801473069:AAHve5fgdxdWrL0bPgCgsfMYvt2LprLjpW8'; // Telegram bot authentication token
+const telegramAuthToken = 'Your Bot Token'; // Telegram bot authentication token
 const webhookEndpoint = '/endpoint'; // Webhook endpoint path
 const oneSecMailApiUrl = 'https://www.1secmail.com/api/v1/?action=genRandomMailbox&count=1'; // API URL for generating temporary email addresses
 const availableDomains = ['1secmail.com', '1secmail.net', '1secmail.org']; // Available domains for temporary email
